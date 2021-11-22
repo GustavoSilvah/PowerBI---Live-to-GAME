@@ -1,6 +1,6 @@
 <h1> Live to GAME - PowerBI</h1>
 
-- Projeto desenvolvido na disciplina de Estatística - Profª Malu Luisa Cervi Uzun | Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino;
+- Projeto desenvolvido na disciplina de Estatística - Profª Maria Luisa Cervi Uzun | Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino;
 
 - O objetivo do projeto foi tratar os dados relacionados ao mercado de games, e mostrar uma análise dos dados mais detalhada e visual através do PowerBI;
 
